@@ -43,7 +43,7 @@ using keyboard we perform some action like
 * Mostafa Tarek 
 * [Abdulrahman Mosad](https://github.com/AbdulrahmanMosad)
 * Ibrahim Shaaban
-* Abd ElHay ElNaqip
+* [Abdel7y EL-Nakeep](https://github.com/Abdel7y)
 * Ahmed Rezk
 * Nourhan Ayman 
 * Ahmed ElSaed
