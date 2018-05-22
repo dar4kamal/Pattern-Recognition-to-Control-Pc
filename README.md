@@ -39,10 +39,10 @@ using keyboard we perform some action like
 
 ## Team Memebrs
 
-* Mostafa Kamal
-* Mostafa Tarek 
+* [Mostafa Kamal](https://github.com/dar4kamal)
+* [Mostafa Tarek](https://github.com/mostafaGwely)
 * [Abdulrahman Mosad](https://github.com/AbdulrahmanMosad)
-* Ibrahim Shaaban
+* [Ibrahim Shaaban](https://github.com/hema-shaaban)
 * [Abdel7y EL-Nakeep](https://github.com/Abdel7y)
 * Ahmed Rezk
 * Nourhan Ayman 
